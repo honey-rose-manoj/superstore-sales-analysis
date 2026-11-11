@@ -87,8 +87,7 @@ The dashboard includes slicers for:
 
 
 
-!\[Superstore Dashboard](screenshots/Superstore\_Dashboard.png)
-
+![Superstore Dashboard](Superstore_Dashboard.png)
 
 
 **Dataset Source**
